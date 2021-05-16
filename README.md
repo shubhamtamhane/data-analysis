@@ -29,6 +29,8 @@ Installation of python, anaconda. Difference between data analyst and data scien
 
 # Chapter 3
 
+<h3>Statistics</h3>
+
 <ul>
   <li>Types of attributes</li>
   <li>Measuring central tendency</li>
